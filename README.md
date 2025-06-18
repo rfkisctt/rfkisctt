@@ -1,6 +1,8 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=%20vik`s.ly&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=&descAlignY=75&descAlign=60)
+
 # 💫 About Me:
 
-👋 Hi, I'm viks.ly
+👋 Hi, I'm rfkisctt, but you can call me vik`s.ly
 
 🎓 Prospective Informatics Engineering Student 
 
