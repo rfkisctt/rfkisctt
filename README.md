@@ -8,7 +8,7 @@
 
 💻 Currently learning web stuff using Visual Studio Code 
 
-🎨 Sometimes editing using Adobe 
+🎨 Sometimes editing using Adobe, Capcut, and Alight Motion
 
 🎮 Sometimes gaming
 
