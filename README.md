@@ -1,5 +1,19 @@
 # 💫 About Me:
-Just a freshman starting a new chapter. Gaming, editing, and learning along the way. Let's see where this journey takes me.
+
+👋 Hi, I'm viks.ly
+
+🎓 Prospective Informatics Engineering Student 
+
+📍 Exploring the world of technology even before campus starts
+
+💻 Currently learning web stuff using Visual Studio Code 
+
+🎨 Sometimes editing using Adobe 
+
+🎮 Sometimes gaming
+
+🔍 Fun fact: I like to tweak things until they feel *right* 
+Let's learn, build, and create cool things together 🚀
 
 
 ### 🌐 Socials:
