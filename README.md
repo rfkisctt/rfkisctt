@@ -39,3 +39,7 @@ Let's learn, build, and create cool things together 🚀
 [![](https://visitcount.itsvg.in/api?id=rfkisctt&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31qfixnjyus6sohppanefb3agl6e">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31qfixnjyus6sohppanefb3agl6e" alt="Data Card for Spotify">
+</a>
