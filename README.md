@@ -31,10 +31,6 @@ Let's learn, build, and create cool things together 🚀
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qfixnjyus6sohppanefb3agl6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qfixnjyus6sohppanefb3agl6e&redirect=true)
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31qfixnjyus6sohppanefb3agl6e">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31qfixnjyus6sohppanefb3agl6e" alt="Data Card for Spotify">
-</a>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
