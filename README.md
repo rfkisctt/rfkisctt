@@ -19,7 +19,7 @@ Let's learn, build, and create cool things together 🚀
 
 ### 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,blender,discord,debian,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,blender,vscode,debian,kali)](https://skillicons.dev)
 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/axdZkkdp) 
