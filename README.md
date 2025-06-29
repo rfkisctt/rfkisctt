@@ -26,7 +26,7 @@ Let's learn, build, and create cool things together 🚀
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rfkisctt)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@y6rrvik) 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/913357165497024544)
+[![Discord Presence](https://lanyard.cnrad.dev/api/913357165497024544)](https://discord.com/users/913357165497024544)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qfixnjyus6sohppanefb3agl6e&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qfixnjyus6sohppanefb3agl6e&redirect=true)
 
