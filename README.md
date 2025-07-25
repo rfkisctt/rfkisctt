@@ -22,9 +22,9 @@ Let's learn, build, and create cool things together 🚀
 [![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,blender,vscode,debian,kali)](https://skillicons.dev)
 
 ### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nBncxMxDGM) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Yu2MhcuGpP) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rfkisctt)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@y6rrvik) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@223ivs) 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/913357165497024544)](https://discord.com/users/913357165497024544)
 
