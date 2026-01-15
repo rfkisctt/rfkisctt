@@ -1,22 +1,4 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=%20vik`s.ly&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=&descAlignY=75&descAlign=60)
-
-# 💫 About Me:
-
-👋 Hi, I'm rfkisctt, but you can call me vik`s.ly
-
-🎓 Prospective Informatics Engineering Student 
-
-📍 Exploring the world of technology even before campus starts
-
-💻 Currently learning web stuff using Visual Studio Code 
-
-🎨 Sometimes editing using Adobe, Capcut, and Alight Motion
-
-🎮 Sometimes gaming
-
-🔍 Fun fact: I like to tweak things until they feel *right* 
-Let's learn, build, and create cool things together 🚀
-
 ### 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,blender,vscode,debian,kali)](https://skillicons.dev)
