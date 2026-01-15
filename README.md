@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=%20rfkisctt&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=&descAlignY=75&descAlign=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:40c463,100:0e4429&height=200&section=header&text=rfkisctt&fontColor=ffffff&fontSize=40)
+
 ### 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,blender,vscode,debian,kali)](https://skillicons.dev)
