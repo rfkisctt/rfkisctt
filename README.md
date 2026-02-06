@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rfkisctt)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@y6rrvik)
 
-<p align="center">
+<p>
   <a href="https://discord.com/users/913357165497024544">
     <img
       src="https://lanyard.cnrad.dev/api/913357165497024544"
