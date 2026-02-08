@@ -4,7 +4,6 @@
 
 [![Design](https://skillicons.dev/icons?i=ae,pr,ps,blender,figma)](https://skillicons.dev)
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Yu2MhcuGpP) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rfkisctt)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@y6rrvik) 
 
