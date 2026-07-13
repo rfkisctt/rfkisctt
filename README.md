@@ -103,6 +103,6 @@ const rifki = {
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-rfkisctt-181717?style=for-the-badge&logo=github)](https://github.com/rfkisctt)
-[![Discord](https://img.shields.io/badge/Discord-rfkisctt-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/913357165497024544)
+[![Discord](https://img.shields.io/badge/Discord-viksly-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/913357165497024544)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0e4429,100:40c463&height=100&section=footer)
