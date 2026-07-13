@@ -6,8 +6,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/913357165497024544)](https://discord.com/users/913357165497024544)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qfixnjyus6sohppanefb3agl6e&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qfixnjyus6sohppanefb3agl6e&redirect=true)
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <picture>
