@@ -83,7 +83,7 @@ const rifki = {
 
 ## Discord Presence
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/913357165497024544?theme=dark&bg=0d1117&borderRadius=10px)](https://discord.com/users/913357165497024544)
+[![Discord Presence](https://lanyard.cnrad.dev/api/913357165497024544)](https://discord.com/users/913357165497024544)
 
 ## Random Dev Quote
 
