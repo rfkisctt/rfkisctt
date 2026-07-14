@@ -98,7 +98,6 @@ const rifki = {
 
 ## Support
 
-[![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-40c463?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=0e4429)](https://ko-fi.com/I8B4236MBL)
 [![Saweria](https://img.shields.io/badge/Support-Saweria-40c463?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0e4429)](https://saweria.co/rfkisctt)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0e4429,100:40c463&height=100&section=footer)
