@@ -30,24 +30,15 @@ const rifki = {
   ],
 
   tech: [
-    "HTML",
-    "CSS",
     "JavaScript",
     "TypeScript",
     "Python",
     "React",
-    "Next.js",
-    "Vite",
     "Supabase"
   ],
 
   tools: [
-    "Git",
-    "GitHub",
-    "Vercel",
-    "Netlify",
     "Figma",
-    "Blender",
     "Photoshop",
     "After Effects",
     "Premiere Pro"
@@ -67,11 +58,11 @@ const rifki = {
 
 ## Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,vite,supabase,nodejs,git,github,vercel,netlify)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,python,react,supabase)](https://skillicons.dev)
 
 ## Design Tools
 
-[![Design Tools](https://skillicons.dev/icons?i=figma,ps,ae,pr,blender)](https://skillicons.dev)
+[![Design Tools](https://skillicons.dev/icons?i=figma,ps,ae,pr)](https://skillicons.dev)
 
 ## GitHub Analytics
 
