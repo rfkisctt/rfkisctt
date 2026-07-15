@@ -29,15 +29,12 @@ const rifki = {
     "UI/UX Design"
   ],
 
-  tech: [
+  techstack: [
     "JavaScript",
     "TypeScript",
     "Python",
     "React",
     "Supabase"
-  ],
-
-  tools: [
     "Figma",
     "Photoshop",
     "After Effects",
@@ -59,8 +56,6 @@ const rifki = {
 ## Tech Stack
 
 [![Tech Stack](https://skillicons.dev/icons?i=js,ts,python,react,supabase)](https://skillicons.dev)
-
-## Design Tools
 
 [![Design Tools](https://skillicons.dev/icons?i=figma,ps,ae,pr)](https://skillicons.dev)
 
