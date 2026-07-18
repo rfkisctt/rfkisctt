@@ -1,9 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:40c463,100:0e4429&height=200&section=header&text=rfkisctt&fontColor=ffffff&fontSize=40)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rfkisctt/rfkisctt/main/main/animate.svg" width="350"/>
-</p>
-
 # Hi, I'm Rifki
 
 **Computer Science Student** from Indonesia
@@ -98,5 +94,9 @@ const rifki = {
 ## Support
 
 [![Saweria](https://img.shields.io/badge/Support-Saweria-40c463?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0e4429)](https://saweria.co/rfkisctt)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rfkisctt/rfkisctt/main/main/animate.svg" width="350"/>
+</p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0e4429,100:40c463&height=100&section=footer)
