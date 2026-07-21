@@ -61,7 +61,7 @@ const rifki = {
 
 ## GitHub Analytics
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=rfkisctt&theme=dark&hide_border=true&background=00000000&ring=40c463&fire=40c463&currStreakNum=40c463&currStreakLabel=40c463&sideNums=40c463&sideLabels=40c463&dates=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=rfkisctt&theme=dark&hide_border=true&disable_animations=true&background=00000000&border=00000000&stroke=00000000&ring=40c463&fire=40c463&currStreakNum=40c463&currStreakLabel=40c463&sideNums=40c463&sideLabels=40c463&dates=8b949e)](https://git.io/streak-stats)
 
 ## Discord Presence
 
